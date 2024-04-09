@@ -9,6 +9,12 @@ This Python script is a Telegram bot that allows users to search for YouTube vid
 - Provides a list of search results for the user to choose from.
 - Downloads the selected video and sends it as a video message to the user.
 - Supports Arabic text for improved readability.
+ <p align="center"><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"></p>
+
+&nbsp;<p align="center">
+  [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/omnitenebris)
+</p>
+
 
 ## Installation
 
