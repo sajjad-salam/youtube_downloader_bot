@@ -15,7 +15,7 @@ This Python script is a Telegram bot that allows users to search for YouTube vid
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/telebot-youtube-downloader.git
+   git clone https://github.com/sajjad-salam/telebot-youtube-downloader.git
    ```
 
 2. Install the required dependencies:
